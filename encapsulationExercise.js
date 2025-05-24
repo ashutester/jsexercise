@@ -16,7 +16,7 @@ class Employee{
 }
 
 let ashutosh = new Employee();
-ashutosh.setEmpDetails(1001,'Ashutosh Bapat','6048180724');
+ashutosh.setEmpDetails(1001,'Ashutosh Bapat',6048180724);
 console.log(ashutosh.getEmpId());
 console.log(ashutosh.getEmpName());
 console.log(ashutosh.getPhoneNumber());
