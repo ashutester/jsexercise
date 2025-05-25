@@ -1,0 +1,23 @@
+{
+  "name": "jsexercise",
+  "version": "1.0.0",
+  "description": "This is set of exercises for Javascript.",
+  "main": "callBackExercise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutester/jsexercise.git"
+  },
+  "author": "Ashutosh Bapat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashutester/jsexercise/issues"
+  },
+  "homepage": "https://github.com/ashutester/jsexercise#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^9.8.0"
+  },
+  "type": "module"
+}
